@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://www.keithalindsey.com/notes/*"
+  to = "https://publish.obsidian.md/serve?url=keithalindsey.com/notes/:splat"
+  status = 200
+  force = true
