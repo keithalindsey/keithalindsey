@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://www.keithalindsey.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Keith | A Blog"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
@@ -13,9 +13,9 @@ paginate: 6
 social:
   twitter: "#"
   github: "#"
-  instagram: "#"
+  instagram: "keithalindsey"
   linkedin: "#"
   dribbble: "#"
   youtube: "#"
 taxonomies:
-  author: authors
+  author: Keith Lindsey
