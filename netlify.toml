@@ -1,3 +1,6 @@
+[context.production.environment]
+  HUGO_VERSION = "0.79.0"
+
 [[redirects]]
   from = "https://www.keithalindsey.com/notes/*"
   to = "https://publish.obsidian.md/serve?url=keithalindsey.com/notes/:splat"
