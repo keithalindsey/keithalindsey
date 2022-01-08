@@ -16,4 +16,4 @@ Params:
   ShowReadingTime: true
 ---
 
-![Bell Pepper drawing from memory](/images/2013/11/2013-11-22_Apple.jpg)
+![Apple on newsprint](/images/2013/11/2013-11-22_Apple.jpg)
