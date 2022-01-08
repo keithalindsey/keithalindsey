@@ -16,4 +16,4 @@ Params:
   ShowReadingTime: true
 ---
 
-![Bell Pepper drawing from memory](/images/2013/11/2013-11-29_Orange.jpg)
+![Drawing of an orange on newsprint](/images/2013/11/2013-11-29_Orange.jpg)
