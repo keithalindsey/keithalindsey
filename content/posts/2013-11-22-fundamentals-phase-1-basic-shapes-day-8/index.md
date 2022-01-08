@@ -11,7 +11,7 @@ tags:
 title: Basic Shapes – Day 8
 resources:
 - name: "featured-image"
-  src: "2013-11-22 Box.jpg"
+  src: "2013-11-22_Box.jpg"
 Params:
   ShowReadingTime: true
 ---

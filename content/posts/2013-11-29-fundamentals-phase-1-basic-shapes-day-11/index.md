@@ -11,7 +11,7 @@ tags:
 title: Basic Shapes – Day 11
 resources:
 - name: "featured-image"
-  src: "2013-11-29 Apple.jpg"
+  src: "2013-11-29_Apple.jpg"
 Params:
   ShowReadingTime: true
 ---

@@ -11,7 +11,7 @@ tags:
 title: Basic Shapes – Day 10
 resources:
 - name: "featured-image"
-  src: "2013-11-26 apple.png"
+  src: "2013-11-26_apple.png"
 Params:
   ShowReadingTime: true
 ---

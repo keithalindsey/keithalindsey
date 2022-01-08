@@ -11,7 +11,7 @@ tags:
 title: Basic Shapes – Day 15
 resources:
 - name: "featured-image"
-  src: "2013-12-06 Light and Form 1.jpg"
+  src: "2013-12-06_LightandForm1.jpg"
 Params:
   ShowReadingTime: true
 ---

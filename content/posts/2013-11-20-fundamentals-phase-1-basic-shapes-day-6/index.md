@@ -11,7 +11,7 @@ tags:
 title: Basic Shapes – Day 6
 resources:
 - name: "featured-image"
-  src: "2013-11-20 Shapes.jpg"
+  src: "2013-11-20_Shapes.jpg"
 Params:
   ShowReadingTime: true
 ---

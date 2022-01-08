@@ -11,7 +11,7 @@ tags:
 title: Basic Shapes – Day 12
 resources:
 - name: "featured-image"
-  src: "2013-11-30 Candles.png"
+  src: "2013-11-30_Candles.png"
 Params:
   ShowReadingTime: true
 ---

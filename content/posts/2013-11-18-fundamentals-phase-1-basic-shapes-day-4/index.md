@@ -11,7 +11,7 @@ tags:
 title: Basic Shapes – Day 4
 resources:
 - name: "featured-image"
-  src: "2013-11-18 Shapes.jpg"
+  src: "2013-11-18_Shapes.jpg"
 Params:
   ShowReadingTime: true
 ---

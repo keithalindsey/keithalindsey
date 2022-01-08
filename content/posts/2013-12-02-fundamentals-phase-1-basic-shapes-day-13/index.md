@@ -11,7 +11,7 @@ tags:
 title: Basic Shapes – Day 13
 resources:
 - name: "featured-image"
-  src: "2013-12-02 Shapes.jpg"
+  src: "2013-12-02_Shapes.jpg"
 Params:
   ShowReadingTime: true
 ---
