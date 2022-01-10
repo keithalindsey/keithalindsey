@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo --gc --minify"
 
 [[redirects]]
-  from = "https://www.keithalindsey.com/notes/*"
+  from = "/notes/*"
   to = "https://publish.obsidian.md/serve?url=keithalindsey.com/notes/:splat"
   status = 200
   force = true
